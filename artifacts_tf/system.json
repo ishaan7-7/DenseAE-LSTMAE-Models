@@ -1,0 +1,9 @@
+{
+  "python": "3.10.18 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 13:08:55) [MSC v.1929 64 bit (AMD64)]",
+  "torch": "2.5.1+cu121",
+  "cuda_is_available": true,
+  "cuda_version": "12.1",
+  "cudnn_version": 90100,
+  "device": "NVIDIA GeForce GTX 1650",
+  "os": "Windows-10-10.0.26100-SP0"
+}

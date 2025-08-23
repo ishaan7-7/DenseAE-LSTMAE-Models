@@ -1,0 +1,11 @@
+{
+  "dense": {
+    "method": "percentile",
+    "value": 0.99
+  },
+  "lstm": {
+    "method": "percentile",
+    "value": 0.99,
+    "aggregate": "last"
+  }
+}

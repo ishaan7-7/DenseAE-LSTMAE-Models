@@ -1,0 +1,23 @@
+﻿# Text files -> LF in repo
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.cfg text eol=lf
+
+# Binary files -> no EOL conversions
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.h5 binary
+*.pt binary
+*.pth binary
+*.keras binary
+*.onnx binary
+*.pkl binary
+*.parquet binary
+*.feather binary
